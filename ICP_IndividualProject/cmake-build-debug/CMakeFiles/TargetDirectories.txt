@@ -1,0 +1,3 @@
+/Users/sandra/Downloads/ICP_IndividualProject/cmake-build-debug/CMakeFiles/ICP_IndividualProject.dir
+/Users/sandra/Downloads/ICP_IndividualProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sandra/Downloads/ICP_IndividualProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
