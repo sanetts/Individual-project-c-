@@ -1,0 +1,8 @@
+1. AT from NYI to FIG 0 stops.
+2. AT from FIG to YUX 0 stops.
+3. AC from YUX to YWL 0 stops.
+
+ Total flights: 3
+ Total extra stops: 0
+ Total distance: 46564.760000km
+ Optimality criteria: distance covered by route
